@@ -3,7 +3,7 @@
 <h3 align="center">My status</h3>
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mori062&theme=nord_bright" width="800px" />
-<img src="https://github.com/Mori062/Mori062/assets/110565242/a1f12b4e-b7e8-4452-bd55-8aef7f981c58t" width="800px" />	
+<img src="https://github.com/Mori062/Mori062/assets/110565242/230ce0c7-8e0b-410d-a640-17a83ea246ec" width="800px" />	
 </p>
 
 <div align="center">
