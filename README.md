@@ -3,7 +3,7 @@
 <h3 align="center">My status</h3>
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mori062&theme=nord_bright" width="800px" />
-<img src="https://github.com/Mori062/Mori062/assets/110565242/230ce0c7-8e0b-410d-a640-17a83ea246ec" width="800px" />	
+<img src="https://github.com/Mori062/Mori062/assets/110565242/5fc86fc9-5ae3-43f1-b195-2ccf6cde49ee" width="800px" />	
 </p>
 
 <div align="center">
@@ -14,16 +14,6 @@
 
 <p align="center">
 	<a href="https://github.com/Mori062/42">
-		<img src="https://badge42.vercel.app/api/v2/cliqpey3e001608lb2omur6rb/stats?cursusId=9&coalitionId=61" alt="shmorish's 42 stats" width="400px" />	
-	</a>
-	<a href="https://github.com/Mori062/42">
-		<img src="https://badge42.vercel.app/api/v2/cliqpey3e001608lb2omur6rb/stats?cursusId=21&coalitionId=310" alt="shmorish's 42 stats" width="400px" />
-	</a>	
-<!-- </p>
-
-<p align="center">
-	<a href="https://github.com/Mori062/42">
 		Please click here to see the details!
 	</a>
 </p>
- -->
