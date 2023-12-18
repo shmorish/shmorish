@@ -3,7 +3,7 @@
 <h3 align="center">My status</h3>
 <p align="left">
   <a href="https://github.com/shmorish">
-    <img src="https://komarev.com/ghpvc/?username=shmorish" alt="shmorish" />
+    <img height="20" src="https://komarev.com/ghpvc/?username=shmorish" alt="shmorish" />
   </a>
   <a href="https://github.com/shmorish">
     <img height="20" src="https://img.shields.io/github/followers/shmorish?label=follow&logo=github&style=flat" />
