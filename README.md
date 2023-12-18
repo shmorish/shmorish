@@ -1,4 +1,4 @@
-<h1> Mori062 Developer 👨‍💻</h1>
+<h1> shmorish Developer 👨‍💻</h1>
 <h2 align="center">A Student && Developer from Japan</h2>
 <h3 align="center">My status</h3>
 <p align="center">
