@@ -2,8 +2,10 @@
 <h2 align="center">A Student && Developer from Japan</h2>
 <h3 align="center">My status</h3>
 <p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shmorish&rank=-C,-B" width="800px" />
+<img src="https://github.com/shmorish/shmorish/assets/110565242/5fc86fc9-5ae3-43f1-b195-2ccf6cde49ee" width="800px" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shmorish&theme=nord_bright" width="800px" />
-<img src="https://github.com/shmorish/shmorish/assets/110565242/5fc86fc9-5ae3-43f1-b195-2ccf6cde49ee" width="800px" />	
+
 </p>
 
 <div align="center">
