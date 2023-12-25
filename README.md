@@ -32,10 +32,9 @@
 <br>
 <div align="center">
 <a href="https://github.com/shmorish/42">
-<img src="https://badge42.coday.fr/api/v2/clqkujml0115701p43p74bg3j/stats?cursusId=9&coalitionId=61" alt="shmorish's 42 stats" width="400px/>
+    <a href="https://github.com/shmorish/42"><img src="https://badge42.coday.fr/api/v2/clqkujml0115701p43p74bg3j/stats?cursusId=9&coalitionId=61" alt="shmorish's 42 stats" width="400px"/></a>
 </a>
-
 <a href="https://github.com/shmorish/42">
-    <img src="https://badge42.coday.fr/api/v2/clqkujml0115701p43p74bg3j/stats?cursusId=21&coalitionId=310" alt="shmorish's 42 stats" width="400px/>
+    <a href="https://github.com/shmorish/42"><img src="https://badge42.coday.fr/api/v2/clqkujml0115701p43p74bg3j/stats?cursusId=21&coalitionId=310" alt="shmorish's 42 stats" width="400px"/></a>
 </a>
 </div>
