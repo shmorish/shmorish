@@ -27,7 +27,9 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shmorish&theme=nord_bright&utcOffset=9" width="400px">
 <h2>42status 👨‍💻</h2>
 <p align="center">
-    <a href="https://github.com/Mori062/42">Please click here to see the details!</a>
+    <a href="https://github.com/shmorish/42"><img src="https://badge42.coday.fr/api/v2/clqkujml0115701p43p74bg3j/stats?cursusId=9&coalitionId=61" alt="shmorish's 42 stats" /></a>
+    <a href="https://github.com/shmorish/42"><img src="https://badge42.coday.fr/api/v2/clqkujml0115701p43p74bg3j/stats?cursusId=21&coalitionId=310" alt="shmorish's 42 stats" /></a>
+    <a href="https://github.com/shmorish/42">Please click here to see the details!</a>
 </p>
 </div>
 
