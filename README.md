@@ -25,10 +25,8 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shmorish&theme=nord_bright" width="800px">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shmorish&theme=nord_bright" width="400px">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shmorish&theme=nord_bright&utcOffset=9" width="400px">
-<h2>42status 👨‍💻</h2>
-<p align="center">
-    <a href="https://github.com/shmorish/42"><img src="https://badge42.coday.fr/api/v2/clqkujml0115701p43p74bg3j/stats?cursusId=9&coalitionId=61" alt="shmorish's 42 stats" width="400px/></a>
+<h2 align="center">42status 👨‍💻</h2>
     <a href="https://github.com/shmorish/42"><img src="https://badge42.coday.fr/api/v2/clqkujml0115701p43p74bg3j/stats?cursusId=21&coalitionId=310" alt="shmorish's 42 stats" width="400px/></a>
-</p>
+    <a href="https://github.com/shmorish/42"><img src="https://badge42.coday.fr/api/v2/clqkujml0115701p43p74bg3j/stats?cursusId=9&coalitionId=61" alt="shmorish's 42 stats" width="400px/></a>
 </div>
 
