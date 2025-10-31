@@ -52,30 +52,10 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shmorish&theme=dark&hide_border=true" width="800px">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shmorish&theme=github-compact&hide_border=true" width="800px">
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/shmorish/shmorish/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
-
 ### 🎓 42 Tokyo Journey
 
 <div align="center">
-  <img src="https://badge.mediaplus.ma/darkblue/shmorish?1337Badge=off&UM6P=off" alt="shmorish's 42 stats" width="400px"/>
+  <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cmhegfi7p4550801pamtfvtc2x/stats?cursusId=21&coalitionId=310" alt="shmorish's 42 stats" /></a>
 </div>
 
 <p align="center">
