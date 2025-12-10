@@ -2,8 +2,6 @@
 
 # 👋 Hi, I'm shmorish!
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=600&height=60&lines=Full+Stack+Developer;42+Tokyo+Student" alt="Typing SVG" />
-
 ---
 
 ### 🌟 About Me
