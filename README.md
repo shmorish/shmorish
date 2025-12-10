@@ -2,8 +2,6 @@
 
 # 👋 Hi, I'm shmorish!
 
----
-
 ### 🌟 About Me
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" height="225" />
