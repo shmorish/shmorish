@@ -1,17 +1,16 @@
 <div align="center">
 
-# 👋 Hi, I'm shmorish!
+# Hi, I'm shmorish 👋
 
-### 🌟 About Me
+### About Me
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" height="225" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="280" height="210" />
 
 <div align="left">
 
-- 👨‍💻 **Engineer** - Building quality software solutions
-- 🎓 **42 Tokyo Student** - Learning systems programming and algorithms
-- 🌐 **Full Stack Developer** - Experience across frontend and backend
-- 📚 **Continuous Learner** - Always improving my technical skills
+- 💼 **Software Engineer** - Building products that matter
+- 🌐 **Full Stack** - Frontend, backend, and everything in between
+- 🤖 **AI-Driven Dev** - Exploring agentic workflows and LLM integration
 - ⚡ **Fun Fact** - Coffee-powered coding sessions are my specialty
 
 </div>
@@ -24,22 +23,22 @@
 
 #### Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
 </p>
 
 #### Frontend & Backend
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 </p>
 
-#### Tools & Technologies
+#### Tools & Infrastructure
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -48,22 +47,19 @@
 
 ---
 
-### 🎓 42 Tokyo Journey
-
-<div align="center">
-  <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cmhegfi7p4550801pamtfvtc2x/stats?cursusId=21&coalitionId=310" alt="shmorish's 42 stats" /></a>
-</div>
+### 📊 GitHub Stats
 
 <p align="center">
-  <strong>🚀 Currently diving deep into systems programming and algorithms at 42 Tokyo</strong>
+  <img src="https://github-readme-stats.vercel.app/api?username=shmorish&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="shmorish's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shmorish&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="165"/>
 </p>
 
 ---
 
-### 📫 Let's Connect!
+### 📫 Let's Connect
 
 <div align="center">
-  
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shmorish)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shmorish)
 
@@ -77,10 +73,8 @@
 </div>
 
 <div align="center">
-  
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
-**Thanks for visiting! ⭐ Star some repositories if you find them interesting!**
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
 </div>
 
