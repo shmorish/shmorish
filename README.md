@@ -50,8 +50,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shmorish&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="shmorish's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shmorish&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=shmorish&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
