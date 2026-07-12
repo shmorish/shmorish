@@ -53,6 +53,11 @@
   <img src="https://streak-stats.demolab.com/?user=shmorish&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shmorish&theme=tokyonight" alt="Top Languages by Commit" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shmorish&theme=tokyonight&utcOffset=9" alt="Commit Time Distribution" width="49%"/>
+</p>
+
 ---
 
 ### 📫 Let's Connect
