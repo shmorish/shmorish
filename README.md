@@ -50,12 +50,21 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shmorish&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shmorish&theme=tokyonight" alt="Profile Details" width="100%"/></a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shmorish&theme=tokyonight" alt="Top Languages by Commit" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shmorish&theme=tokyonight&utcOffset=9" alt="Commit Time Distribution" width="49%"/>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shmorish&theme=tokyonight" alt="Repos per Language" width="49%"/></a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shmorish&theme=tokyonight" alt="Top Languages by Commit" width="49%"/></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shmorish&theme=tokyonight" alt="Stats" width="49%"/></a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shmorish&theme=tokyonight&utcOffset=9" alt="Commit Time Distribution" width="49%"/></a>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=shmorish&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
