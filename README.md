@@ -49,23 +49,13 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shmorish&theme=tokyonight" alt="Profile Details" width="100%"/></a>
-</p>
+[![Profile Details][card-profile-details]][summary-cards]
 
-<p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shmorish&theme=tokyonight" alt="Repos per Language" width="49%"/></a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shmorish&theme=tokyonight" alt="Top Languages by Commit" width="49%"/></a>
-</p>
+[![Repos per Language][card-repos-per-language]][summary-cards] [![Top Languages by Commit][card-most-commit-language]][summary-cards]
 
-<p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shmorish&theme=tokyonight" alt="Stats" width="49%"/></a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shmorish&theme=tokyonight&utcOffset=9" alt="Commit Time Distribution" width="49%"/></a>
-</p>
+[![Stats][card-stats]][summary-cards] [![Commit Time Distribution][card-productive-time]][summary-cards]
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shmorish&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+![GitHub Streak][card-streak]
 
 ---
 
@@ -92,3 +82,14 @@
 </div>
 
 </div>
+
+<!-- カードURL定義: テーマやユーザー名を変えるときはここだけ編集する -->
+<!-- username: shmorish / theme: tokyonight / utcOffset: +9 (JST) -->
+
+[summary-cards]: https://github.com/vn7n24fzkq/github-profile-summary-cards
+[card-profile-details]: https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shmorish&theme=tokyonight
+[card-repos-per-language]: https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shmorish&theme=tokyonight
+[card-most-commit-language]: https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shmorish&theme=tokyonight
+[card-stats]: https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shmorish&theme=tokyonight
+[card-productive-time]: https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shmorish&theme=tokyonight&utcOffset=9
+[card-streak]: https://streak-stats.demolab.com/?user=shmorish&theme=tokyonight&hide_border=true
