@@ -55,8 +55,6 @@
 
 [![Stats][card-stats]][summary-cards] [![Commit Time Distribution][card-productive-time]][summary-cards]
 
-![GitHub Streak][card-streak]
-
 ---
 
 ### 📫 Let's Connect
@@ -92,4 +90,3 @@
 [card-most-commit-language]: https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shmorish&theme=tokyonight
 [card-stats]: https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shmorish&theme=tokyonight
 [card-productive-time]: https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shmorish&theme=tokyonight&utcOffset=9
-[card-streak]: https://streak-stats.demolab.com/?user=shmorish&theme=tokyonight&hide_border=true
