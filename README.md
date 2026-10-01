@@ -1,29 +1,14 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shmorish/profile-metrics/metrics-output/terminal.svg" width="100%" alt="GitHub metrics terminal"/>
+<img
+  src="https://raw.githubusercontent.com/shmorish/profile-metrics/metrics-output/terminal.svg"
+  width="100%"
+  alt="shmorish — GitHub activity, repositories and languages"
+/>
 
----
-
-### 📫 Let's Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shmorish)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shmorish)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shmorish&style=for-the-badge&color=brightgreen" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/shmorish?label=Followers&style=for-the-badge&color=blue&logo=github" alt="GitHub followers"/>
-</div>
-
-<div align="center">
+[![Twitter](https://img.shields.io/badge/@shmorish-bd93f9?style=flat-square&logo=x&logoColor=f8f8f2&labelColor=282a36)](https://twitter.com/shmorish)
+[![Profile views](https://komarev.com/ghpvc/?username=shmorish&style=flat-square&color=50fa7b&labelColor=282a36&label=views)](https://github.com/shmorish)
 
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
-
-</div>
 
 </div>
