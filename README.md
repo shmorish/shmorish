@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi, I'm shmorish 👋
-
-<img src="https://raw.githubusercontent.com/shmorish/profile-metrics/metrics-output/terminal.svg" width="480" alt="GitHub metrics terminal"/>
+<img src="https://raw.githubusercontent.com/shmorish/profile-metrics/metrics-output/terminal.svg" width="100%" alt="GitHub metrics terminal"/>
 
 ---
 
