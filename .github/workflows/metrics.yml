@@ -1,0 +1,48 @@
+# Renders the profile's terminal.svg with Ishi-eenn/profile-metrics (pinned),
+# and publishes it to the metrics-output branch so main stays content-only.
+name: Metrics
+
+on:
+  schedule: [{ cron: "0 0 * * *" }]
+  workflow_dispatch:
+  push: { branches: ["main"] }
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Check out the generator
+        uses: actions/checkout@v5
+        with:
+          repository: Ishi-eenn/profile-metrics
+          ref: 69892126e6d5787e032d45b6fe244388ae497d70
+          path: generator
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+
+      - name: Generate terminal.svg
+        working-directory: generator
+        run: npm ci && npm start
+        env:
+          # METRICS_TOKEN (PAT) counts private contributions; the built-in
+          # token sees public data only.
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          METRICS_USER: shmorish
+          # Layout knobs (METRICS_TERMINAL / METRICS_ACTIVITY) use their
+          # defaults; set them here to deviate.
+
+      - run: mkdir -p public && cp generator/terminal.svg public/
+
+      - uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: metrics-output
+          folder: public
+          single-commit: true
+          commit-message: "chore: update terminal.svg"

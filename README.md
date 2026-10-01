@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/shmorish/profile-metrics/metrics-output/terminal.svg"
+  src="https://raw.githubusercontent.com/shmorish/shmorish/metrics-output/terminal.svg"
   width="100%"
   alt="shmorish — GitHub activity, repositories and languages"
 />
