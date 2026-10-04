@@ -22,21 +22,21 @@
 <text x="18" y="94">  Joined GitHub 4 years ago</text>
 <text x="18" y="115">  Followed by 50 users</text>
 <text x="18" y="136">  Contributed to 33 repositories</text>
-<rect x="34.3" y="144" width="13" height="13" rx="2" fill="#ebedf0" /><rect x="50.3" y="144" width="13" height="13" rx="2" fill="#ebedf0" /><rect x="66.3" y="144" width="13" height="13" rx="2" fill="#ebedf0" /><rect x="82.3" y="144" width="13" height="13" rx="2" fill="#40c463" /><rect x="98.3" y="144" width="13" height="13" rx="2" fill="#216e39" /><rect x="114.3" y="144" width="13" height="13" rx="2" fill="#ebedf0" /><rect x="130.3" y="144" width="13" height="13" rx="2" fill="#ebedf0" /><rect x="146.3" y="144" width="13" height="13" rx="2" fill="#ebedf0" /><rect x="162.3" y="144" width="13" height="13" rx="2" fill="#ebedf0" /><rect x="178.3" y="144" width="13" height="13" rx="2" fill="#ebedf0" /><rect x="194.3" y="144" width="13" height="13" rx="2" fill="#9be9a8" /><rect x="210.3" y="144" width="13" height="13" rx="2" fill="#40c463" /><rect x="226.3" y="144" width="13" height="13" rx="2" fill="#ebedf0" /><rect x="242.3" y="144" width="13" height="13" rx="2" fill="#ebedf0" />
+<rect x="34.3" y="144" width="13" height="13" rx="2" fill="#ebedf0" /><rect x="50.3" y="144" width="13" height="13" rx="2" fill="#ebedf0" /><rect x="66.3" y="144" width="13" height="13" rx="2" fill="#ebedf0" /><rect x="82.3" y="144" width="13" height="13" rx="2" fill="#40c463" /><rect x="98.3" y="144" width="13" height="13" rx="2" fill="#216e39" /><rect x="114.3" y="144" width="13" height="13" rx="2" fill="#ebedf0" /><rect x="130.3" y="144" width="13" height="13" rx="2" fill="#ebedf0" /><rect x="146.3" y="144" width="13" height="13" rx="2" fill="#ebedf0" /><rect x="162.3" y="144" width="13" height="13" rx="2" fill="#ebedf0" /><rect x="178.3" y="144" width="13" height="13" rx="2" fill="#ebedf0" /><rect x="194.3" y="144" width="13" height="13" rx="2" fill="#9be9a8" /><rect x="210.3" y="144" width="13" height="13" rx="2" fill="#40c463" /><rect x="226.3" y="144" width="13" height="13" rx="2" fill="#ebedf0" /><rect x="242.3" y="144" width="13" height="13" rx="2" fill="#9be9a8" />
 <text x="18" y="178"> </text>
 <text x="18" y="199"><tspan class="p">➜</tspan>  <tspan class="c">~</tspan>  cat languages</text>
-<text x="18" y="220">  C            <tspan fill="#555555">█████████</tspan><tspan class="d">░░░░░░░</tspan> <tspan class="n"> 53.1%</tspan></text>
-<text x="18" y="241">  Rust         <tspan fill="#dea584">██</tspan><tspan class="d">░░░░░░░░░░░░░░</tspan> <tspan class="n"> 12.8%</tspan></text>
-<text x="18" y="262">  C++          <tspan fill="#f34b7d">██</tspan><tspan class="d">░░░░░░░░░░░░░░</tspan> <tspan class="n">  9.8%</tspan></text>
-<text x="18" y="283">  Python       <tspan fill="#3572A5">█</tspan><tspan class="d">░░░░░░░░░░░░░░░</tspan> <tspan class="n">  7.1%</tspan></text>
-<text x="18" y="304">  TypeScript   <tspan fill="#3178c6">█</tspan><tspan class="d">░░░░░░░░░░░░░░░</tspan> <tspan class="n">  6.9%</tspan></text>
-<text x="18" y="325">  Objective-C  <tspan fill="#438eff">█</tspan><tspan class="d">░░░░░░░░░░░░░░░</tspan> <tspan class="n">  4.2%</tspan></text>
-<text x="18" y="346">  Lua          <tspan fill="#000080">█</tspan><tspan class="d">░░░░░░░░░░░░░░░</tspan> <tspan class="n">  3.2%</tspan></text>
-<text x="18" y="367">  Makefile     <tspan fill="#427819">█</tspan><tspan class="d">░░░░░░░░░░░░░░░</tspan> <tspan class="n">  2.8%</tspan></text>
+<text x="18" y="220">  C            <tspan fill="#555555">████████</tspan><tspan class="d">░░░░░░░░</tspan> <tspan class="n"> 48.2%</tspan></text>
+<text x="18" y="241">  C++          <tspan fill="#f34b7d">████</tspan><tspan class="d">░░░░░░░░░░░░</tspan> <tspan class="n"> 23.4%</tspan></text>
+<text x="18" y="262">  Lua          <tspan fill="#000080">██</tspan><tspan class="d">░░░░░░░░░░░░░░</tspan> <tspan class="n"> 12.9%</tspan></text>
+<text x="18" y="283">  TypeScript   <tspan fill="#3178c6">█</tspan><tspan class="d">░░░░░░░░░░░░░░░</tspan> <tspan class="n">  6.8%</tspan></text>
+<text x="18" y="304">  JavaScript   <tspan fill="#f1e05a">█</tspan><tspan class="d">░░░░░░░░░░░░░░░</tspan> <tspan class="n">  3.7%</tspan></text>
+<text x="18" y="325">  Shell        <tspan fill="#89e051">█</tspan><tspan class="d">░░░░░░░░░░░░░░░</tspan> <tspan class="n">  2.0%</tspan></text>
+<text x="18" y="346">  Go           <tspan fill="#00ADD8">█</tspan><tspan class="d">░░░░░░░░░░░░░░░</tspan> <tspan class="n">  1.7%</tspan></text>
+<text x="18" y="367">  Rust         <tspan fill="#dea584">█</tspan><tspan class="d">░░░░░░░░░░░░░░░</tspan> <tspan class="n">  1.2%</tspan></text>
 <text x="18" y="388"> </text>
 <text x="18" y="409"><tspan class="p">➜</tspan>  <tspan class="c">~</tspan>  <tspan class="cur">▊</tspan></text>
 <text x="354.94000000000005" y="52"><tspan class="p">➜</tspan>  <tspan class="c">~</tspan>  cat activity</text>
-<text x="354.94000000000005" y="73">  <tspan class="n">  1716</tspan>  Commits</text>
+<text x="354.94000000000005" y="73">  <tspan class="n">  1719</tspan>  Commits</text>
 <text x="354.94000000000005" y="94">  <tspan class="n">   153</tspan>  Pull requests opened</text>
 <text x="354.94000000000005" y="115">  <tspan class="n">    35</tspan>  Pull requests reviewed</text>
 <text x="354.94000000000005" y="136">  <tspan class="n">    58</tspan>  Issues opened</text>
