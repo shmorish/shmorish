@@ -32,6 +32,9 @@ jobs:
           # Panes are balanced by line count: 14 left, 13 right.
           METRICS_TERMINAL: profile,languages | activity,repositories
           METRICS_ACTIVITY: commits,prs,reviews,issues
+          # Weight languages by commits across every repo contributed to,
+          # including other owners' repos (each repo counts as its primary language).
+          METRICS_LANGUAGES: commits
 
       - name: Commit terminal.svg
         run: |
