@@ -1,7 +1,7 @@
 ### こんにちは 👋
 
 I was a student of [42Tokyo](https://42tokyo.jp/).  
-現在は [KDDI Agile Development Center](https://kddi-agile.com/)（KDDI アジャイル開発センター株式会社）でエンジニアをしています。
+現在はエンジニアをしています。
 
 日本語を主として使用しております。
 
